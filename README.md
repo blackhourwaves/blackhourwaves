@@ -1,10 +1,7 @@
-# 🌌 Vzn
----
-
-## 💻 Skills
+## 💻 Tecnologies
 - JavaScript
 - Node.js
 - Lua
 
-## 📫 Contato
+## 📧 Contato
 - Discord: vznwtf
