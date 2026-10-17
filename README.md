@@ -29,8 +29,8 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <h3>PathsParser</h3>
-      <p>Ferramenta modificada, adicionado análise de entropia, nova yara e muito mais.</p>
+      <h3>Paths Parser</h3>
+      <p>Ferramenta modificada com análise de entropia, novas regras yara e muito mais.</p>
       <a href="https://github.com/blackhourwaves/PathsParser">
         <img src="https://img.shields.io/badge/Ver%20projeto-222222?style=for-the-badge&logo=github&logoColor=white" alt="Ver PathsParser">
       </a>
@@ -44,6 +44,12 @@
     </td>
   </tr>
 </table>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=blackhourwaves&label=VISITAS%20NO%20PERFIL&color=7057ff&style=for-the-badge" alt="Contador de visitas do perfil">
+</p>
 
 ---
 
