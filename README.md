@@ -1,16 +1,52 @@
-## Hi there 👋
+# Vzn
 
-<!--
-**blackhourwaves/blackhourwaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Desenvolvedor independente</strong>
+  <br>
+  Disponível para projetos.
+  <br><br>
+  <sub>Discord para contato: @vznww / @blackhourwaves</sub>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.deltascreenshare.com/">
+    <img src="https://img.shields.io/badge/DeltaScreenshare-Clique%20bem%20aqui-7057ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Delta Screenshare">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <strong>DeltaScreenShare</strong>
+  <br>
+  Site desenvolvido por mim para uma das maiores equipes de telagem da América Latina.
+  <br><br>
+  <a href="https://www.deltascreenshare.com/">Visitar site →</a>
+</p>
+
+---
+
+<h3 align="center">Outros projetos</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>PathsParser</h3>
+      <p>Ferramenta modificada, adicionado análise de entropia, nova yara e muito mais.</p>
+      <a href="https://github.com/blackhourwaves/PathsParser">
+        <img src="https://img.shields.io/badge/Ver%20projeto-222222?style=for-the-badge&logo=github&logoColor=white" alt="Ver PathsParser">
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>Bot de Ticket</h3>
+      <p>Bot gratuito de tickets para o Discord.</p>
+      <a href="https://github.com/blackhourwaves/Vzn-TicketBot">
+        <img src="https://img.shields.io/badge/Ver%20projeto-222222?style=for-the-badge&logo=github&logoColor=white" alt="Ver Vzn-TicketBot">
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <sub>Vzn · <a href="https://github.com/blackhourwaves">GitHub</a></sub>
+</p>
