@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <strong>DeltaScreenShare</strong>
+  <strong>Conheça meu trabalho</strong>
   <br>
   Site desenvolvido por mim para uma das maiores equipes de telagem da América Latina.
   <br><br>
