@@ -1,7 +1,7 @@
 # Vzn
 
 <p align="center">
-  <strong>Desenvolvedor independente</strong>
+  <strong>Software Engineer</strong>
   <br>
   Disponível para projetos.
   <br><br>
@@ -46,11 +46,12 @@
 </table>
 
 ---
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=blackhourwaves&label=VISITAS%20NO%20PERFIL&color=7057ff&style=for-the-badge" alt="Contador de visitas do perfil">
+  <img
+    src="https://shieldcn.dev/views/user/blackhourwaves.svg?variant=branded"
+    alt="Visualizações do perfil"
+  >
 </p>
-
 ---
 
 <p align="center">
